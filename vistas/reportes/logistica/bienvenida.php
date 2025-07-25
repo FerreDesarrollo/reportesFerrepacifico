@@ -44,6 +44,7 @@ $filtros = [
 ];
 
 // Nuevo filtro para facturas sin programación
+
 $sin_programacion = isset($_GET['sin_programacion']) && $_GET['sin_programacion'] === '1';
 
 foreach ($filtros as $campo => $valor) {
@@ -53,85 +54,76 @@ foreach ($filtros as $campo => $valor) {
 }
 
 $por_pagina = 15;
+
 $pagina_actual = isset($_GET['pagina']) && is_numeric($_GET['pagina']) ? (int)$_GET['pagina'] : 1;
 $offset = ($pagina_actual - 1) * $por_pagina;
 
+$where = ["fecha_documento"];
+$params = [];
 
-if ($sin_programacion) {
-    // Consulta especial para facturas sin programación
-    $sql = "SELECT folio,idprograma,fecha_programa,fecha_documento,hora_documento,vendedor,estatus,fecha_salida,fecha_entrada,chofer_nombre,unidad,unidades,total,peso,ruta,cliente,ciudad_estado,colonia,calle,poblacion,codigo_postal FROM Envios_logistica2 WHERE idprograma = 'sin dato' AND fecha_documento LIMIT $por_pagina OFFSET $offset";
-    $stmt = $pdo->prepare($sql);
-    $stmt->execute();
-    $resultados = $stmt->fetchAll(PDO::FETCH_ASSOC);
+$sucursal_prefixes = [
+    'Fondeport' => ['F'], 'Cantamar' => ['C'], 'Tlaquepaque' => ['T'],
+    'Villa' => ['V'], 'Lahuerta' => ['H'], 'Melaque' => ['MV'], 'Mayoreo' => ['MY', 'BV']
+];
 
-    $count_sql = "SELECT COUNT(DISTINCT folio) FROM Envios_logistica2 WHERE idprograma = 'sin dato' AND fecha_documento";
-    $count_stmt = $pdo->prepare($count_sql);
-    $count_stmt->execute();
-    $total_registros = $count_stmt->fetchColumn();
-    $total_paginas = ceil($total_registros / $por_pagina);
-} else {
-    $where = ["fecha_documento"];
-    $params = [];
-
-    $sucursal_prefixes = [
-        'Fondeport' => ['F'], 'Cantamar' => ['C'], 'Tlaquepaque' => ['T'],
-        'Villa' => ['V'], 'Lahuerta' => ['H'], 'Melaque' => ['MV'], 'Mayoreo' => ['MY', 'BV']
-    ];
-
-    if (!empty($filtros['sucursal']) && isset($sucursal_prefixes[$filtros['sucursal']])) {
-        $prefijos = $sucursal_prefixes[$filtros['sucursal']];
-        $sucursal_where = [];
-        foreach ($prefijos as $prefijo) {
-            $sucursal_where[] = "UPPER(folio) LIKE ?";
-            $params[] = strtoupper($prefijo) . '%';
-        }
-        $where[] = '(' . implode(' OR ', $sucursal_where) . ')';
+if (!empty($filtros['sucursal']) && isset($sucursal_prefixes[$filtros['sucursal']])) {
+    $prefijos = $sucursal_prefixes[$filtros['sucursal']];
+    $sucursal_where = [];
+    foreach ($prefijos as $prefijo) {
+        $sucursal_where[] = "UPPER(folio) LIKE ?";
+        $params[] = strtoupper($prefijo) . '%';
     }
-
-    foreach ($filtros as $campo => $valor) {
-        if ($valor !== '' && $campo !== 'sucursal') {
-            if (in_array($campo, ['fecha_programa', 'fecha_documento'])) {
-                $fechaObj = DateTime::createFromFormat('Y-m-d', $valor);
-                if ($fechaObj) {
-                    $fecha_formateada = $fechaObj->format('d/m/Y') . ' 12:00:00 a. m.';
-                    $where[] = "$campo = ?";
-                    $params[] = $fecha_formateada;
-                }
-            } elseif ($campo === 'estatus') {
-                $where[] = "estatus = ?";
-                $params[] = $valor;
-            } else {
-                $where[] = "$campo LIKE ?";
-                $params[] = '%' . $valor . '%';
-            }
-        }
-    }
-
-    $sql = "SELECT DISTINCT folio, idprograma, fecha_programa, fecha_documento, hora_documento, vendedor, estatus, 
-            fecha_salida, fecha_entrada, chofer_nombre, vehiculo_descripcion, unidades, total, peso, ruta, cliente,
-            ciudad_estado, colonia, calle, poblacion, codigo_postal
-            FROM Envios_logistica2";
-
-    if (!empty($where)) {
-        $sql .= " WHERE " . implode(" AND ", $where);
-    }
-
-    $sql .= " ORDER BY fecha_programa DESC LIMIT $por_pagina OFFSET $offset";
-
-    $stmt = $pdo->prepare($sql);
-    $stmt->execute($params);
-    $resultados = $stmt->fetchAll(PDO::FETCH_ASSOC);
-
-    // Conteo total para paginación
-    $count_sql = "SELECT COUNT(DISTINCT folio) FROM Envios_logistica2";
-    if (!empty($where)) {
-        $count_sql .= " WHERE " . implode(" AND ", $where);
-    }
-    $count_stmt = $pdo->prepare($count_sql);
-    $count_stmt->execute($params);
-    $total_registros = $count_stmt->fetchColumn();
-    $total_paginas = ceil($total_registros / $por_pagina);
+    $where[] = '(' . implode(' OR ', $sucursal_where) . ')';
 }
+
+foreach ($filtros as $campo => $valor) {
+    if ($valor !== '' && $campo !== 'sucursal') {
+        if (in_array($campo, ['fecha_programa', 'fecha_documento'])) {
+            $fechaObj = DateTime::createFromFormat('Y-m-d', $valor);
+            if ($fechaObj) {
+                $fecha_formateada = $fechaObj->format('d/m/Y') . ' 12:00:00 a. m.';
+                $where[] = "$campo = ?";
+                $params[] = $fecha_formateada;
+            }
+        } elseif ($campo === 'estatus') {
+            $where[] = "estatus = ?";
+            $params[] = $valor;
+        } else {
+            $where[] = "$campo LIKE ?";
+            $params[] = '%' . $valor . '%';
+        }
+    }
+}
+
+// Si el filtro sin_programacion está activo, agregar condición
+if ($sin_programacion) {
+    $where[] = "idprograma = 'sin dato'";
+}
+
+$sql = "SELECT DISTINCT folio, idprograma, fecha_programa, fecha_documento, hora_documento, vendedor, estatus, 
+        fecha_salida, fecha_entrada, chofer_nombre, vehiculo_descripcion, unidades, total, peso, ruta, cliente,
+        ciudad_estado, colonia, calle, poblacion, codigo_postal
+        FROM Envios_logistica2";
+
+if (!empty($where)) {
+    $sql .= " WHERE " . implode(" AND ", $where);
+}
+
+$sql .= " ORDER BY fecha_programa DESC LIMIT $por_pagina OFFSET $offset";
+
+$stmt = $pdo->prepare($sql);
+$stmt->execute($params);
+$resultados = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+// Conteo total para paginación
+$count_sql = "SELECT COUNT(DISTINCT folio) FROM Envios_logistica2";
+if (!empty($where)) {
+    $count_sql .= " WHERE " . implode(" AND ", $where);
+}
+$count_stmt = $pdo->prepare($count_sql);
+$count_stmt->execute($params);
+$total_registros = $count_stmt->fetchColumn();
+$total_paginas = ceil($total_registros / $por_pagina);
 
 // --- Ejecutar consulta en la BD logística para traer entregas ---
 $sql_entregas = "
