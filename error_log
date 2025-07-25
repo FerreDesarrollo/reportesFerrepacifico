@@ -1,0 +1,884 @@
+[28-Feb-2024 23:31:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[28-Feb-2024 23:31:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[28-Feb-2024 23:32:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[28-Feb-2024 23:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[28-Feb-2024 23:46:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[28-Feb-2024 23:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[28-Feb-2024 23:46:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[28-Feb-2024 23:46:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[28-Feb-2024 23:46:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[28-Feb-2024 23:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[28-Feb-2024 23:46:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[28-Feb-2024 23:46:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[28-Feb-2024 23:46:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[28-Feb-2024 23:46:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[28-Feb-2024 23:47:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[28-Feb-2024 23:47:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[12-Mar-2024 22:26:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[12-Mar-2024 22:26:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[27-Mar-2024 14:25:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[27-Mar-2024 14:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[27-Mar-2024 14:25:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[27-Mar-2024 14:25:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[27-Mar-2024 14:25:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[27-Mar-2024 14:25:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[09-Sep-2024 14:28:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 15
+[09-Sep-2024 14:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php:16
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php(86): Conect_MySql->connect()
+#1 /home/ferrepacificocom/public_html/reportes/reportes/index.php(4): Conect_MySql->__construct()
+#2 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:38:58 UTC] PHP Warning:  require_once(clases/Conexion.php): failed to open stream: No such file or directory in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:38:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'clases/Conexion.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:39:03 UTC] PHP Warning:  require_once(clases/Conexion.php): failed to open stream: No such file or directory in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:39:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'clases/Conexion.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:44:19 UTC] PHP Warning:  require_once(clases/Conexion.php): failed to open stream: No such file or directory in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:44:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'clases/Conexion.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:48:23 UTC] PHP Warning:  require_once(clases/Conexion.php): failed to open stream: No such file or directory in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:48:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'clases/Conexion.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:48:24 UTC] PHP Warning:  require_once(clases/Conexion.php): failed to open stream: No such file or directory in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:48:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'clases/Conexion.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:48:25 UTC] PHP Warning:  require_once(clases/Conexion.php): failed to open stream: No such file or directory in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:48:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'clases/Conexion.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ferrepacificocom/public_html/reportes/index.php on line 3
+[02-Jan-2025 20:53:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:20 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:21 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:35 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:41 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:42 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:42 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:42 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:43 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:46 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:48 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:49 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 20:53:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 20:53:54 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 21:01:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 21:01:35 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 21:19:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 21:19:33 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 21:19:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 21:19:34 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 21:19:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 21:19:35 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 21:22:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 21:22:44 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 21:25:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 21:25:04 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 21:35:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 21:35:19 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 21:35:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 21:35:20 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 21:35:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 21:35:21 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 21:58:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 21:58:37 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 22:05:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 22:05:53 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 22:05:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 22:05:58 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 22:24:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 22:24:16 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[02-Jan-2025 22:24:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[02-Jan-2025 22:24:17 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 01:11:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 01:11:11 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 02:03:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 02:03:44 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 02:03:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 02:03:52 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 02:03:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 02:03:55 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 02:03:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 02:03:58 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 02:03:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 02:03:59 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 02:04:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 02:04:09 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 02:04:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 02:04:11 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 02:04:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 02:04:12 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 02:04:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 02:04:13 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 03:05:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 03:05:42 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 03:05:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 03:05:43 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 03:05:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 03:05:45 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 03:06:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 03:06:12 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 03:06:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 03:06:13 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 03:06:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 03:06:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 03:06:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 03:06:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 03:20:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 03:20:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 03:35:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 03:35:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 03:35:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 03:35:15 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 05:19:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 05:19:30 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 05:19:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 05:19:45 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 10:07:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 10:07:58 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 10:08:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 10:08:09 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 10:13:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 10:13:54 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 10:14:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 10:14:02 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 10:53:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 10:53:08 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 11:05:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 11:05:27 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 11:05:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 11:05:37 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 11:41:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 11:41:17 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 13:26:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 13:26:38 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 13:26:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 13:26:38 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 13:36:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 13:36:08 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 13:36:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 13:36:08 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 13:36:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 13:36:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 13:36:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 13:36:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 13:36:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 13:36:11 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 13:56:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 13:56:55 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:04:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:04:21 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:04:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:04:23 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:04:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:04:25 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:04:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:04:27 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:04:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:04:41 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:04:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:04:46 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:04:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:04:46 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:04:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:04:48 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:07:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:07:03 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:17:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:17:40 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:17:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:17:41 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:18:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:18:01 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:18:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:18:01 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:20:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:20:56 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:20:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:20:56 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:22:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:22:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:22:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:22:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:31:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:31:40 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:33:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:33:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:33:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:33:11 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:44:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:44:27 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:44:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:44:27 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:52:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:52:29 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:56:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:56:21 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:56:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:56:21 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:56:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:56:23 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:56:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:56:23 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:56:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:56:24 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:56:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:56:24 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:56:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:56:24 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:56:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:56:24 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:56:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:56:25 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:56:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:56:26 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:30 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:30 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:34 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:34 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:34 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:35 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:35 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:36 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:36 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:38 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 14:57:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 14:57:39 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 15:08:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 15:08:47 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 15:08:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 15:08:48 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 15:08:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 15:08:49 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 15:21:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 15:21:52 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 15:40:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 15:40:28 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 15:55:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 15:55:41 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 15:55:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 15:55:41 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 15:59:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 15:59:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 15:59:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 15:59:15 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:03:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:03:40 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:10:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:10:36 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:10:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:10:38 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:10:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:10:39 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:10:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:10:40 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:10:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:10:42 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:10:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:10:44 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:14:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:14:03 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:14:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:14:04 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:24:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:24:35 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:24:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:24:36 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:24:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:24:37 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:24:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:24:52 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:26:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:26:44 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:28:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:28:58 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:29:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:29:01 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:29:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:29:02 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:29:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:29:05 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:30:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:30:57 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:30:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:30:59 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:32:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:32:07 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:35:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:35:34 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:35:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:35:35 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:36:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:36:16 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:48:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:48:02 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:48:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:48:27 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:48:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:48:31 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:48:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:48:37 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:48:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:48:38 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:54:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:54:40 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:54:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:54:41 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 16:59:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 16:59:30 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:01:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:01:19 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:01:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:01:20 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:01:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:01:21 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:01:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:01:22 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:01:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:01:22 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:03:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:03:09 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:05:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:05:25 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:05:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:05:27 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:05:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:05:29 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:05:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:05:31 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:05:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:05:32 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:05:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:05:42 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:09:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:09:17 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:09:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:09:18 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:22:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:22:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:22:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:22:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:22:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:22:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:22:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:22:15 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:22:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:22:16 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:22:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:22:18 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:29:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:29:03 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:42:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:42:53 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:59:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:59:55 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 17:59:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 17:59:59 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 18:11:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 18:11:27 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 18:29:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 18:29:23 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 18:44:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 18:44:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 18:44:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 18:44:18 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:00:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:00:01 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:05:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:05:47 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:05:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:05:48 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:05:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:05:49 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:05:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:05:52 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:05:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:05:55 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:05:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:05:56 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:05:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:05:58 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:17:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:17:36 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:17:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:17:37 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:26:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:26:40 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:26:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:26:41 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:26:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:26:45 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:26:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:26:46 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:26:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:26:47 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:27:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:27:24 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:27:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:27:24 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:27:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:27:52 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:27:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:27:53 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:27:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:27:55 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:27:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:27:56 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:27:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:27:56 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:27:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:27:56 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:27:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:27:56 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:27:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:27:56 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:38:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:38:08 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:38:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:38:09 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:38:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:38:09 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:38:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:38:09 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:38:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:38:09 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:38:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:38:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:38:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:38:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:38:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:38:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:38:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:38:11 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:38:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:38:12 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:46:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:46:02 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:46:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:46:02 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:49:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:49:11 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:49:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:49:12 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:53:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:53:17 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 19:53:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 19:53:17 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 20:03:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 20:03:32 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 20:03:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 20:03:33 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 20:59:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 20:59:33 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 20:59:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 20:59:34 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 20:59:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 20:59:35 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 20:59:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 20:59:35 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 21:00:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 21:00:07 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 21:00:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 21:00:13 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 21:00:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 21:00:15 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 21:00:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 21:00:17 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 21:58:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 21:58:43 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 21:58:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 21:58:44 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 21:59:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 21:59:11 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:03:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:03:36 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:03:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:03:38 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:07:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:07:12 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:07:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:07:13 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:09:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:09:53 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:09:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:09:54 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:10:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:10:25 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:10:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:10:26 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:10:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:10:50 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:10:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:10:51 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:27:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:27:53 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:27:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:27:54 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:27:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:27:56 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:27:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:27:57 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:27:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:27:57 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:30:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:30:23 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:39:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:39:21 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:39:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:39:22 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:41:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:41:42 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:43:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:43:33 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:46:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:46:52 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:48:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:48:40 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:48:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:48:47 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:48:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:48:51 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:48:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:48:53 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:48:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:48:54 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:48:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:48:54 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:50:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:50:42 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:50:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:50:43 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:50:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:50:45 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:52:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:52:22 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:56:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:56:04 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 22:56:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 22:56:05 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:07:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:07:30 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:07:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:07:31 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:07:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:07:32 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:07:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:07:32 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:07:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:07:32 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:07:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:07:33 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:08:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:08:03 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:39:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:39:22 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:39:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:39:22 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:45:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:45:09 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[03-Jan-2025 23:45:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[03-Jan-2025 23:45:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:02:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:02:32 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:02:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:02:33 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:05:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:05:54 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:05:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:05:54 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:06:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:06:05 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:06:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:06:06 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:16:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:16:20 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:16:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:16:20 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:19:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:19:15 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:19:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:19:16 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:19:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:19:31 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:21:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:21:13 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:21:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:21:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:34:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:34:09 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:34:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:34:09 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:49:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:49:46 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:49:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:49:47 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:49:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:49:49 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 00:51:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 00:51:20 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 01:46:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 01:46:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 01:46:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 01:46:10 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 01:48:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 01:48:12 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 01:49:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 01:49:50 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 02:24:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 02:24:14 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 02:24:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 02:24:15 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 02:24:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 02:24:16 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 02:24:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 02:24:19 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 04:14:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 04:14:52 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 04:14:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 04:14:53 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 04:14:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 04:14:56 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[04-Jan-2025 05:14:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ferrepac_reporte'@'localhost' (using password: YES) in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 15
+[04-Jan-2025 05:14:34 UTC] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 16
+[20-Jun-2025 23:40:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[21-Jun-2025 18:36:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[23-Jun-2025 14:50:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[23-Jun-2025 15:19:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[23-Jun-2025 21:15:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[23-Jun-2025 23:02:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jun-2025 00:17:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jun-2025 00:18:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jun-2025 00:18:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jun-2025 00:18:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jun-2025 00:18:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jun-2025 03:14:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jun-2025 03:14:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[25-Jun-2025 00:03:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[25-Jun-2025 04:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[26-Jun-2025 14:47:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[26-Jun-2025 14:47:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[26-Jun-2025 16:48:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[26-Jun-2025 17:49:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[26-Jun-2025 17:49:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[26-Jun-2025 17:49:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[26-Jun-2025 17:51:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 14:54:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 14:54:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 14:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:16:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:16:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:16:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:16:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:16:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:16:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:16:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:17:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:17:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:17:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 18:17:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 19:01:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 19:01:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 19:01:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 22:33:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 22:33:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 22:33:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 22:34:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 22:41:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[27-Jun-2025 22:52:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[28-Jun-2025 14:27:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[28-Jun-2025 14:36:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[28-Jun-2025 15:37:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[30-Jun-2025 14:15:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[30-Jun-2025 14:15:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[30-Jun-2025 14:18:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[30-Jun-2025 14:18:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[01-Jul-2025 00:58:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[01-Jul-2025 21:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[01-Jul-2025 23:41:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[02-Jul-2025 14:03:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[02-Jul-2025 14:04:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[02-Jul-2025 14:54:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[02-Jul-2025 19:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[02-Jul-2025 22:38:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[02-Jul-2025 22:40:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[02-Jul-2025 22:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[02-Jul-2025 22:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[02-Jul-2025 22:49:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[02-Jul-2025 22:49:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 17:59:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:03:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:03:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:03:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:04:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:05:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:05:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:05:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:07:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:08:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:08:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:08:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:09:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:09:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:11:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 18:54:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 20:37:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 22:34:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 22:34:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 22:34:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[03-Jul-2025 22:35:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 00:00:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 00:11:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 02:53:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 16:24:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 16:25:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 16:54:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 16:55:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 23:57:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 23:57:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 23:57:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[04-Jul-2025 23:57:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[05-Jul-2025 16:09:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[05-Jul-2025 16:55:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[05-Jul-2025 17:07:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[05-Jul-2025 18:12:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[07-Jul-2025 14:28:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[07-Jul-2025 15:22:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[07-Jul-2025 20:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[07-Jul-2025 20:18:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[07-Jul-2025 20:18:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[07-Jul-2025 20:19:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[07-Jul-2025 23:45:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[08-Jul-2025 00:31:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[09-Jul-2025 13:57:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[09-Jul-2025 13:57:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[09-Jul-2025 13:57:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[09-Jul-2025 13:58:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[09-Jul-2025 13:58:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[10-Jul-2025 18:57:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[10-Jul-2025 23:27:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[11-Jul-2025 14:44:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[12-Jul-2025 15:01:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[12-Jul-2025 19:41:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[14-Jul-2025 16:44:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[14-Jul-2025 22:45:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[15-Jul-2025 14:19:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[15-Jul-2025 18:31:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[15-Jul-2025 23:50:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[16-Jul-2025 14:35:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[16-Jul-2025 16:46:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[16-Jul-2025 16:46:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[16-Jul-2025 21:48:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[18-Jul-2025 14:55:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[18-Jul-2025 18:29:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[18-Jul-2025 18:57:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[18-Jul-2025 19:22:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[18-Jul-2025 19:55:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[18-Jul-2025 23:49:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[18-Jul-2025 23:49:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[18-Jul-2025 23:49:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[18-Jul-2025 23:50:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[18-Jul-2025 23:59:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[19-Jul-2025 14:28:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '7ddbb6309d14a74d92e31b26f3ff5454dfa0708b'' at line 1 in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php:24
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/clases/Conexion.php(24): mysqli_query(Object(mysqli), 'SELECT id from ...')
+#1 /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php(41): Conect_MySql->execute('SELECT id from ...')
+#2 /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php(17): usuarios->traeID(Array)
+#3 /home/ferrepacificocom/public_html/reportes/login.php(15): usuarios->loginUser(Array)
+#4 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 24
+[19-Jul-2025 14:28:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '7ddbb6309d14a74d92e31b26f3ff5454dfa0708b'' at line 1 in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php:24
+Stack trace:
+#0 /home/ferrepacificocom/public_html/reportes/clases/Conexion.php(24): mysqli_query(Object(mysqli), 'SELECT id from ...')
+#1 /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php(41): Conect_MySql->execute('SELECT id from ...')
+#2 /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php(17): usuarios->traeID(Array)
+#3 /home/ferrepacificocom/public_html/reportes/login.php(15): usuarios->loginUser(Array)
+#4 {main}
+  thrown in /home/ferrepacificocom/public_html/reportes/clases/Conexion.php on line 24
+[21-Jul-2025 19:56:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[21-Jul-2025 22:16:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[22-Jul-2025 00:49:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[22-Jul-2025 00:49:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[22-Jul-2025 00:49:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[22-Jul-2025 13:47:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[22-Jul-2025 19:32:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[23-Jul-2025 15:39:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[23-Jul-2025 16:17:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[23-Jul-2025 16:50:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jul-2025 00:27:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jul-2025 15:04:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jul-2025 15:39:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43
+[24-Jul-2025 18:52:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ferrepacificocom/public_html/reportes/clases/Usuarios.php on line 43

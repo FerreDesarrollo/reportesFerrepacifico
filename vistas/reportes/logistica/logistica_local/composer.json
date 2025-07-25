@@ -1,0 +1,15 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "^7.0",       
+    "vlucas/phpdotenv": "^5.5"          
+  },
+  "require-dev": {
+    "league/oauth1-client": "^1.11"     
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
