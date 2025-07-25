@@ -1,0 +1,35 @@
+name: 🚀 Despliegue PHP vía SFTP (solo cambios)
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: 📦 Subir sitio PHP vía SFTP (solo cambios)
+    runs-on: ubuntu-latest # Ejecutará el trabajo en un entorno Linux.
+
+    steps:
+      - name: 📁 Descargar código del repositorio
+        uses: actions/checkout@v3
+
+      - name: 📤 Subir archivos vía SFTP
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 22
+          source: "./"
+          target: "/home/ferrepacificocom/public_html/logistica/pruebas"
+      - name: 🔧 Cambiar permisos de archivos a 777
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 22
+          script: |
+            find /home/ferrepacificocom/public_html/logistica/pruebas -type f -exec chmod 777 {} \;
+            find /home/ferrepacificocom/public_html/logistica/pruebas -type d -exec chmod 777 {} \;
